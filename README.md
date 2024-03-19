@@ -51,4 +51,8 @@ Upon setup, the application fetches mock data from a provided JSON file, simulat
  . Documentation and Video Walkthrough: The README.md file includes setup instructions, an overview of the application, and a link to a video walkthrough. Comments within the code provide clarity on logic and implementation details, facilitating ease of understanding and further development.
 
 Overall, the React AI insights dashboard offers a robust platform for users to explore and analyze AI data, demonstrating the candidate's proficiency in frontend development, design, and user interaction.
+
+
+
+Deployed Link : https://arcot-prakhar.vercel.app/
 ```
