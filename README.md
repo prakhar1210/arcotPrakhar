@@ -1,4 +1,4 @@
-# Your React App Name
+Arcot AI Dashboard
 
 Brief description of your React app, its purpose, and any key features.
 
