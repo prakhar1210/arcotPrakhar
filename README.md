@@ -55,4 +55,6 @@ Overall, the React AI insights dashboard offers a robust platform for users to e
 
 
 Deployed Link : https://arcot-prakhar.vercel.app/
+
+Viedo Link : https://www.veed.io/view/a80d5dbc-5a7e-4e57-8c0b-0685b80e4f00?panel=share
 ```
